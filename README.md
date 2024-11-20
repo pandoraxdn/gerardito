@@ -343,3 +343,71 @@ x^(2a+b) * x^(a+b) = **x^(3a+2b)**
 **Respuesta final:**
 
 7^(m-2) * 7^(m+2) = **7^(2m)**
+
+## 25.- $\frac{x^a+b}{x^2a+b}$
+**Ley de los exponentes a utilizar:**
+
+* **División de potencias con la misma base:** Cuando dividimos potencias con la misma base, restamos los exponentes.
+
+**Aplicando la ley:**
+
+* x^(a+b) / x^(2a+b) = x^[(a+b) - (2a+b)]
+
+**Simplificando los exponentes:**
+
+* x^[(a+b) - (2a+b)] = x^(a + b - 2a - b) = x^(-a)
+
+**Respuesta final:**
+
+$\frac{x^a+b}{x^2a+b}$ = **x^(-a)**
+
+## 26.- $\frac{m^{2x-1}}{m^{3x-2}}$
+**Ley de los exponentes a utilizar:**
+
+* **División de potencias con la misma base:** Cuando dividimos potencias con la misma base, restamos los exponentes.
+
+**Aplicando la ley:**
+
+* $\frac{m^{2x-1}}{m^{3x-2}} = m^{(2x-1) - (3x-2)}$
+
+**Simplificando los exponentes:**
+
+* $m^{(2x-1) - (3x-2)} = m^{2x - 1 - 3x + 2} = m^{-x + 1}$
+
+**Respuesta final:**
+
+$\frac{m^{2x-1}}{m^{3x-2}} = m^{-x + 1}$
+
+## 27.- $\frac{2^{(x+4)}}{2^{(x-3)}}$
+**Ley de los exponentes a utilizar:**
+
+* **División de potencias con la misma base:** Cuando dividimos potencias con la misma base, restamos los exponentes.
+
+**Aplicando la ley:**
+
+* $\frac{2^{(x+4)}}{2^{(x-3)}} = 2^{(x+4) - (x-3)}$
+
+**Simplificando los exponentes:**
+
+* $2^{(x+4) - (x-3)} = 2^{x+4-x+3} = 2^7$
+
+**Respuesta final:**
+
+$\frac{2^{(x+4)}}{2^{(x-3)}} = \boxed{2^7}$
+
+## 28.- $\frac{a^{2x-7}}{a^{x-1}}$
+**Ley de los exponentes a utilizar:**
+
+* **División de potencias con la misma base:** Cuando dividimos potencias con la misma base, restamos los exponentes.
+
+**Aplicando la ley:**
+
+* $\frac{a^{2x-7}}{a^{x-1}} = a^{(2x-7) - (x-1)}$
+
+**Simplificando los exponentes:**
+
+* $a^{(2x-7) - (x-1)} = a^{2x - 7 - x + 1} = a^{x - 6}$
+
+**Respuesta final:**
+
+$\frac{a^{2x-7}}{a^{x-1}} = \boxed{a^{x-6}}$
