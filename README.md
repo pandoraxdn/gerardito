@@ -173,3 +173,173 @@ $(\frac{(2m)}{(3n)})⁰ = 1$
 **Respuesta:**
 
 **$(\frac{(2m)}{(3n)})⁰ = 1$**
+
+## 15.- $\frac{x²y⁻³}{a⁻¹b⁴}$
+**Propiedades a utilizar:**
+
+* **Exponentes negativos:** Un exponente negativo indica el inverso multiplicativo. Es decir, $a^{-n} = \frac{1}{a^n}$.
+* **División de potencias con la misma base:** Cuando dividimos potencias con la misma base, restamos los exponentes.
+
+**Aplicando las propiedades:**
+
+1. **Eliminamos los exponentes negativos:**
+   * Llevamos las variables con exponentes negativos al denominador (si están en el numerador) o al numerador (si están en el denominador), cambiando el signo del exponente.
+   * $\frac{x^2}{y^3 * a^{-1} * b^4} = \frac{x^2 * a}{y^3 * b^4}$
+
+2. **Simplificamos (si es posible):**
+   * En este caso, no hay términos semejantes para simplificar más.
+
+**Respuesta final:**
+
+**$\frac{x²y⁻³}{a⁻¹b⁴} = \frac{x^2a}{y^3b^4}$**
+
+## 16.- $(\frac{m⁻²n}{m³n⁻³})⁴$
+**Pasos a seguir:**
+
+1. **Simplificar la fracción interna:**
+   * **Regla de la división de potencias con la misma base:** Al dividir potencias con la misma base, restamos los exponentes.
+   * $\frac{m^{-2}n}{m^3n^{-3}} = m^{-2-3}n^{1-(-3)} = m^{-5}n^4$
+
+2. **Aplicar la potencia externa:**
+   * **Regla de la potencia de una potencia:** Al elevar una potencia a otra potencia, multiplicamos los exponentes.
+   * $(m^{-5}n^4)^4 = m^{-5*4}n^{4*4} = m^{-20}n^{16}$
+
+3. **Eliminar el exponente negativo:**
+   * **Regla de los exponentes negativos:** Un exponente negativo indica el inverso multiplicativo. Es decir, $a^{-n} = \frac{1}{a^n}$.
+   * $m^{-20}n^{16} = \frac{n^{16}}{m^{20}}$
+
+**Respuesta final:**
+
+**$(\frac{m⁻²n}{m³n⁻³})⁴ = \frac{n^{16}}{m^{20}}$**
+
+## 17.- (m⁴n⁵)²
+**Propiedad a utilizar:**
+
+* **Potencia de una potencia:** Cuando elevamos una potencia a otra potencia, multiplicamos los exponentes.
+
+**Aplicando la propiedad:**
+
+* (m⁴n⁵)² = m⁴*² * n⁵*² = m⁸n¹⁰
+
+**Respuesta final:**
+
+(m⁴n⁵)² = **m⁸n¹⁰**
+
+## 18.- ([3a]²)⁵
+**Propiedad a utilizar:**
+
+* **Potencia de una potencia:** Cuando elevamos una potencia a otra potencia, multiplicamos los exponentes.
+
+**Aplicando la propiedad:**
+
+1.  **Elevamos el exponente interno:** 
+     ([3a]²)⁵ = (3²a²)⁵ 
+     (Recuerda que (3a)² = 3²a²)
+
+2.  **Aplicamos la potencia de una potencia a cada factor:**
+     (3²a²)⁵ = 3²*⁵ * a²*⁵ = 3¹⁰ * a¹⁰
+
+**Respuesta final:**
+
+([3a]²)⁵ = **3¹⁰a¹⁰**
+
+## 19.- (2m²n³)⁻²
+**Propiedad a utilizar:**
+
+* **Potencia de una potencia:** Cuando elevamos una potencia a otra potencia, multiplicamos los exponentes.
+* **Exponente negativo:** Un exponente negativo indica el inverso multiplicativo. Es decir, a⁻ⁿ = 1/aⁿ.
+
+**Aplicando las propiedades:**
+
+1. **Elevamos cada factor dentro del paréntesis al exponente externo:**
+   (2m²n³)⁻² = 2⁻² * (m²)⁻² * (n³)⁻²
+
+2. **Multiplicamos los exponentes:**
+   2⁻² * (m²)⁻² * (n³)⁻² = 2⁻⁴ * m⁻⁴ * n⁻⁶
+
+3. **Eliminamos los exponentes negativos:**
+   2⁻⁴ * m⁻⁴ * n⁻⁶ = 1/2⁴ * 1/m⁴ * 1/n⁶
+
+4. **Simplificamos:**
+   1/2⁴ * 1/m⁴ * 1/n⁶ = 1 / (2⁴ * m⁴ * n⁶) = 1 / (16m⁴n⁶)
+
+**Respuesta final:**
+
+(2m²n³)⁻² = **1 / (16m⁴n⁶)**
+
+## 20.- (3h)⁰
+**Regla a recordar:**
+
+* **Cualquier número (excepto 0) elevado a la potencia 0 es igual a 1.**
+
+**Aplicando la regla:**
+
+* (3h)⁰ = 1
+
+**Respuesta final:**
+
+(3h)⁰ = **1**
+
+## 21.- ([2ab]³)⁰
+**Regla a recordar:**
+
+* **Cualquier número (excepto 0) elevado a la potencia 0 es igual a 1.**
+
+**Aplicando la regla:**
+
+* ([2ab]³)⁰ = 1
+
+**Respuesta final:**
+
+([2ab]³)⁰ = **1**
+
+## 22.- a^(x+2) * a^(x-1)
+**Propiedad a utilizar:**
+
+* **Producto de potencias con la misma base:** Cuando multiplicamos potencias con la misma base, sumamos los exponentes.
+
+**Aplicando la propiedad:**
+
+* a^(x+2) * a^(x-1) = a^[(x+2) + (x-1)]
+
+**Simplificando los exponentes:**
+
+* a^[(x+2) + (x-1)] = a^(x + 2 + x - 1) = a^(2x + 1)
+
+**Respuesta final:**
+
+a^(x+2) * a^(x-1) = **a^(2x+1)**
+
+## 23.- x^(2a+b) * x^(a+b)
+**Propiedad a utilizar:**
+
+* **Producto de potencias con la misma base:** Cuando multiplicamos potencias con la misma base, sumamos los exponentes.
+
+**Aplicando la propiedad:**
+
+* x^(2a+b) * x^(a+b) = x^[(2a+b) + (a+b)]
+
+**Simplificando los exponentes:**
+
+* x^[(2a+b) + (a+b)] = x^(2a + b + a + b) = x^(3a + 2b)
+
+**Respuesta final:**
+
+x^(2a+b) * x^(a+b) = **x^(3a+2b)**
+
+## 24.- 7^(m-2) * 7^(m+2)
+**Propiedad a utilizar:**
+
+* **Producto de potencias con la misma base:** Cuando multiplicamos potencias con la misma base, sumamos los exponentes.
+
+**Aplicando la propiedad:**
+
+* 7^(m-2) * 7^(m+2) = 7^[(m-2) + (m+2)]
+
+**Simplificando los exponentes:**
+
+* 7^[(m-2) + (m+2)] = 7^(m - 2 + m + 2) = 7^(2m)
+
+**Respuesta final:**
+
+7^(m-2) * 7^(m+2) = **7^(2m)**
